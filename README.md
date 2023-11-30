@@ -1,0 +1,1 @@
+This is the main repo that I will use to showcase the things I make using the odin project.
